@@ -1,0 +1,6 @@
+langchain  # Core library for building RAG applications
+langchain-community  # Community extensions for LangChain
+pypdf  # PDF handling library for document loading
+ipykernel  # Jupyter kernel for running Python code in notebooks
+langchain-ollama  # Ollama integration for LangChain
+chromadb  # ChromaDB for vector storage and retrieval
