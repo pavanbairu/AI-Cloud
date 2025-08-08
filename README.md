@@ -97,8 +97,4 @@ streamlit run main.py
 - "provide the personal details of pavan?"
 ![alt text](image.png)
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
