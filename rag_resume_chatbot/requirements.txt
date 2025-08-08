@@ -4,3 +4,8 @@ pypdf  # PDF handling library for document loading
 ipykernel  # Jupyter kernel for running Python code in notebooks
 langchain-ollama  # Ollama integration for LangChain
 chromadb  # ChromaDB for vector storage and retrieval
+streamlit  # Web app framework for building interactive applications
+euriai  # EuriAI for AI-driven applications
+python-dotenv  # For loading environment variables from .env files
+langchain_groq  # Groq integration for LangChain
+sentence-transformers # Sentence Transformers for embeddings
