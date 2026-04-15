@@ -89,6 +89,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# just adding the new user query.
+# changes are related to table-optimize
 # Full-width question input
 user_query = st.text_input(
     label="Ask questions about the resume to get structured responses in dictionary format.",

@@ -9,3 +9,4 @@ euriai  # EuriAI for AI-driven applications
 python-dotenv  # For loading environment variables from .env files
 langchain_groq  # Groq integration for LangChain
 sentence-transformers # Sentence Transformers for embeddings
+fastapi
